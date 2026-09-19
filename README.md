@@ -55,9 +55,9 @@ Below is a breakdown of market-leading commercial platforms sorted by estimated 
 
 ## 🔓 Open-Source GitHub Projects 🌟
 
-Full-featured open-source field service platforms provide data privacy, customizability, and self-hosted control. Below are top open-source projects sorted by GitHub star count descending:
+Full-featured open-source field service platforms provide data privacy, customizability, and self-hosted control. Below are top open-source projects sorted by GitHub Stars_Count descending:
 
-| Repository 📦 | GitHub Stars ⭐ | Category / Description 📝 |
+| Repository 📦 | GitHub_Stars ⭐ | Category / Description 📝 |
 | :--- | :--- | :--- |
 | **[frappe / erpnext](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Full open-source ERP suite featuring maintenance schedules, support ticketing, inventory control, and customizable field service workflows. |
 | **[google / or-tools](https://github.com/google/or-tools)** | [![Stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers) | Fast operational research software suite used for solving Vehicle Routing Problems (VRP), technician scheduling, and route optimization. |
@@ -126,7 +126,7 @@ Thank you for exploring this curated list! If you found this resource helpful fo
 ## ⚠️ Disclaimer 📜
 
 - This repository is a **community-curated informational list**.
-- Pricing, company financials, and star counts are subject to change over time based on vendor updates and GitHub community activity.
+- Pricing, company financials, and Stars_Counts are subject to change over time based on vendor updates and GitHub community activity.
 - Deploying open-source or commercial mobile workforce platforms handling sensitive geolocation and customer data should undergo security and operational review.
 
 ---
